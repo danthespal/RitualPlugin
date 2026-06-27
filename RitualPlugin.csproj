@@ -15,4 +15,8 @@
   <ItemGroup>
     <PackageReference Include="OriathHub.Sdk" Version="0.7.2" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Sdk\" />
+  </ItemGroup>
 </Project>
