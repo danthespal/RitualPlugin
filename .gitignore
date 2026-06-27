@@ -1,0 +1,23 @@
+## Visual Studio Build Outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs
+nuget.config
+
+## JetBrains Rider / VS Code
+.idea/
+.vscode/
+*.user
+*.suo
+
+## NuGet Packages
+*.nupkg
+packages/
+
+## OS generated files
+.DS_Store
+Thumbs.db
