@@ -6,7 +6,6 @@ obj/
 x64/
 x86/
 .vs
-nuget.config
 
 ## JetBrains Rider / VS Code
 .idea/
