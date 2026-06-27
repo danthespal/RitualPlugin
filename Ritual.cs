@@ -23,7 +23,7 @@ namespace OriathHub.Plugins.Ritual
         public override string Name => "Ritual";
         public override string Author => "MrOne";
         public override string Description => "Pricer for Ritual Rewards";
-        public override string Version => "0.3.242";
+        public override string Version => "0.3.3";
 
         public override void OnEnable(bool isGameOpened)
         {
