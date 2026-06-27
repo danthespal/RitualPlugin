@@ -13,6 +13,6 @@
   </Target>
 
   <ItemGroup>
-    <PackageReference Include="OriathHub.Sdk" Version="0.7.333" />
+    <PackageReference Include="OriathHub.Sdk" Version="0.7.2" />
   </ItemGroup>
 </Project>

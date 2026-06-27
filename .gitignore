@@ -13,10 +13,6 @@ x86/
 *.user
 *.suo
 
-## NuGet Packages
-*.nupkg
-packages/
-
 ## OS generated files
 .DS_Store
 Thumbs.db
